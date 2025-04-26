@@ -20,5 +20,5 @@ This project utilizes a fine-tuned version of the Meta Llama-3.2-3B-Instruct lan
 
 ## Additional Details (for Reference)
 
-- Although not required, you can run `pip install -r requirements.txt` to install all required dependencies (this allows you to skip running all `pip install` cells in the notebooks).
+- Although not required, you can run `pip install -r requirements.txt` to install all required dependencies (this allows you to skip running all `!pip install` cells in the notebooks).
 - All training was performed on a rented NVIDIA A4000 GPU via Paperspace.
